@@ -1,0 +1,51 @@
+Time,Capacitance,MagnetoResistance,Action
+0,23.00,55.00,Soil is dry
+1,26.00,59.00,Soil is dry
+2,28.00,59.00,Soil is dry
+3,29.00,57.00,Soil is dry
+4,27.00,61.00,Soil is dry
+5,29.00,65.00,Soil is dry
+6,26.00,68.00,Soil is dry
+7,28.00,68.00,Soil is dry
+8,29.00,68.00,Soil is dry
+9,31.00,72.00,None
+10,35.00,70.00,None
+11,35.00,69.00,None
+12,38.00,71.00,Soil is wet
+13,42.00,74.00,Soil is wet
+14,39.00,78.00,Soil is wet
+15,41.00,77.00,Soil is wet
+16,40.00,77.00,Soil is wet
+17,41.00,78.00,Soil is wet
+18,37.00,77.00,Soil is wet
+19,35.00,76.00,None
+20,31.00,77.00,None
+21,28.00,74.00,Soil is dry
+22,30.00,74.00,None
+23,31.00,73.00,None
+24,31.00,70.00,None
+25,34.00,70.00,None
+26,36.00,71.00,Soil is wet
+27,33.00,74.00,None
+28,33.00,76.00,None
+29,30.00,79.00,None
+30,30.00,83.00,None
+31,27.00,84.00,Soil is dry
+32,24.00,80.00,Soil is dry
+33,26.00,84.00,Soil is dry
+34,24.00,83.00,Soil is dry
+35,23.00,84.00,Soil is dry
+36,24.00,80.00,Soil is dry
+37,23.00,80.00,Soil is dry
+38,20.00,83.00,Soil is dry
+39,18.00,81.00,Soil is dry
+40,19.00,84.00,Soil is dry
+41,21.00,81.00,Soil is dry
+42,25.00,78.00,Soil is dry
+43,28.00,79.00,Soil is dry
+44,27.00,78.00,Soil is dry
+45,23.00,76.00,Soil is dry
+46,23.00,77.00,Soil is dry
+47,27.00,78.00,Soil is dry
+48,25.00,81.00,Soil is dry
+49,25.00,82.00,Soil is dry
