@@ -39,6 +39,8 @@ texture_photo = pygame.image.load(os.getcwd() + '\\images/texture.png')
 (t_width, t_height) = photo_obstacle.get_rect().size
 (txtwidth, txtheight) = texture_photo.get_rect().size
 
+icon = pygame.image.load(os.getcwd() + '\\images/logo.png')
+pygame.display.set_icon(icon)
 
 image_background = pygame.image.load(os.getcwd() + '\\images/background.png')
 image_background_still = pygame.image.load(os.getcwd() + '\\images/background_inv.png')
